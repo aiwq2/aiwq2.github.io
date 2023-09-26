@@ -4,17 +4,11 @@
  * [博客链接](http://leopardpan.cn) （部署在国内，访问更快）         
  * [Demo链接](http://leopardpan.github.io/) （部署在github page）         
 
-如果你喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
- 
-### 你在搭建个人博客遇到任何问题都可以找我
+###这是一个参照[github上的一个项目](https://github.com/leopardpan/leopardpan.github.io)建立的网站，喜欢的可以给原作者一个star
 
-遇到解决不了的问题 [需要技术支持联系我](http://leopardpan.cn/support/)
+>- 搭建引擎为`Jekyll`,`Jekyll`是一种简单的、适用于博客的、静态网站生成引擎。它使用一个模板目录作为网站布局的基础框架，支持Markdown、Textile等标记语言的解析，提供了模板、变量、插件等功能，最终生成一个完整的静态Web站点
+>- `Jekyll`的相关教程:<https://jekyllrb.com/docs/>
 
-
-### 环境要求
-
-* Jekyll 支持: Mac 、Windows、ubuntu 、Linux 操作系统                     
-* Jekyll 需要依赖: Ruby、bundler
 
 ### 使用手册
 
@@ -40,21 +34,6 @@
 > $ jekyll server
 
 在浏览器输入 [127.0.0.1:4000](127.0.0.1:4000) ， 就可以看到博客效果了。
-
-
-### 提示
-
->* 如果你想使用我的模板，请把 _posts/ 目录下的文章都去掉。
->* 修改 _config.yml 文件里面的内容为你自己的个人信息。
-
-如果在部署博客的时候发现问题，可以直接在[Issues](https://github.com/leopardpan/leopardpan.github.io/issues)里面提问。        
-
-
-### 把这个博客变成你自己的博客
-
-根据上面【提示】修改过后，在你的github里创建一个username.github.io的仓库，username指的值你的github的用户名。      
-创建完成后，把我的这个模板使用git push到你的username.github.io仓库下就行了。
-搭建博客如果遇到问题可以看看我教程[Jekyll搭建个人博客](http://leopardpan.cn/2016/10/jekyll_tutorials1/)。
 
 
 ### 赞助
@@ -83,33 +62,3 @@
 ![](http://leopardpan.github.io/images/readme/icon.gif)
 
 如果你只想要我博客里的头像效果，你只需要拿 leopardpan.github.io/_includes/side-panel.html 文件里面 `头像效果` 和 leopardpan.github.io/css/main.css 里面最后面 `头像效果` 部分就行了。
-
-
-***
-
-#### 博客首页   
-
-![](http://leopardpan.github.io//images/readme/img4.png)   
-
-***  
-
-#### 每篇文章下面都支持打赏   
-
-![](http://leopardpan.github.io/images/readme/img3.png)
-
-#### 文章详情   
-
-![](http://leopardpan.github.io/images/readme/img1.png)
-
-
-#### 文章支持标签分类 
-
-![](http://leopardpan.github.io/images/readme/img2.png)
-
-#### 手机端效果
-
-<img width="300" src="http://leopardpan.github.io/images/readme/img5.png" alt="wechat">
-
-#### 感谢   
-
-本博客在[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基础上修改的。  
