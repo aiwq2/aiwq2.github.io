@@ -1,13 +1,14 @@
 
+这是一个参照[github上的一个项目](https://github.com/leopardpan/leopardpan.github.io)建立的网站，喜欢的可以给原作者一个star
+
+>- 搭建引擎为`Jekyll`,`Jekyll`是一种简单的、适用于博客的、静态网站生成引擎。它使用一个模板目录作为网站布局的基础框架，支持Markdown、Textile等标记语言的解析，提供了模板、变量、插件等功能，最终生成一个完整的静态Web站点
+>- `Jekyll`的相关教程:<https://jekyllrb.com/docs/>
+
 [leopard](http://leopardpan.cn) 是一个简洁的博客模板，响应式主题， 适配了电脑、手机各种屏幕，看效果直接点击下面链接
  
  * [博客链接](http://leopardpan.cn) （部署在国内，访问更快）         
  * [Demo链接](http://leopardpan.github.io/) （部署在github page）         
 
-###这是一个参照[github上的一个项目](https://github.com/leopardpan/leopardpan.github.io)建立的网站，喜欢的可以给原作者一个star
-
->- 搭建引擎为`Jekyll`,`Jekyll`是一种简单的、适用于博客的、静态网站生成引擎。它使用一个模板目录作为网站布局的基础框架，支持Markdown、Textile等标记语言的解析，提供了模板、变量、插件等功能，最终生成一个完整的静态Web站点
->- `Jekyll`的相关教程:<https://jekyllrb.com/docs/>
 
 
 ### 使用手册
